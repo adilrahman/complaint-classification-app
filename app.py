@@ -62,6 +62,9 @@ def predict(req : Request):
 
     return predictions 
 
+@app.get("/")
+def home():
+    return {"msg" : "hello"}
 
 if __name__ == "__main__":
     uvicorn.run(app)
