@@ -9,7 +9,7 @@
 
 
  <p><div align="center">
-  <img src="/Images/banner.png" width="400px" /> <!-- line breaker --></div></p>
+  <img src="/Images/banner.webep" width="700px" /> <!-- line breaker --></div></p>
   
    <p><div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker --></div></p>
